@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  font-family: 'Inter var';
+}
+
+.screenHeight{
+  height: 130vh;
+}
+.sidebarHight{
+  height: 130vh;
+}
